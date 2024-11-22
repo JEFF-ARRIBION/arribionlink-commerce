@@ -1,0 +1,15 @@
+{
+  "folders": [
+	{
+		"name": "main3py",
+		"path": "../ARRIBION/DREAM.WEB/main3py"
+	},
+	{
+		"name": "SERIOUSLY HTML",
+		"path": "../ARRIBION/DREAM.WEB/SERIOUSLY HTML"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "SERIOUSLY HTML"
+  }
+}
